@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Virgiliogeo | Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+<header>
+    <h1>Virgílio Da Silva</h1>
+    <p>Estudante de Programação Web e Pacote Office</p>
+</header>
+
+<section class="sobre">
+    <h2>Sobre mim</h2>
+    <p>
+        Estudante do colégio Luisão do Saber, com conhecimentos em desenvolvimento web e pacote office.
+        Procuro uma oportunidade de estágio ou trabalho em TI para aprender na prática e crescer
+        profissionalmente.
+    </p>
+</section>
+
+<section class="skills">
+    <h2>Competências</h2>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>GitHub</li>
+        <li>Criação de Sites Simples</li>
+        <li>Tabelas Dinámicas</li>
+        <li>Criação de Relatorios</li>
+    </ul>
+</section>
+
+<section class="projetos">
+    <h2>Projetos</h2>
+
+    <div class="projeto">
+        <img class="foto" src="img/1.jpg">
+        <h3>Relógio Dinámico Analógico</h3>
+        <p>Projeto em JavaScript que mostra a hora em tempo real.</p>
+   </div>
+
+    <div class="projeto">
+        <img class="foto" src="img/2.jpg">
+        <h3>IA escolar</h3>
+        <p>Inteligência Artificial capas de trocar e apresentar informações escolares feita com HTML, CSS e JavaScript.</p>
+    </div>
+    
+    <div class="projeto">
+        <img class="foto" src="img/3.jpg">
+        <h3>Simulação de um S.A.I</h3>
+        <p>Sistema de Apoi a Indentificação, desenvolvido em JavaScript puro para a manipulação de dados.</p>
+    </div>
+
+    <div class="projeto">
+        <img class="foto" src="img/4.jpg">
+        <h3>Album de Familia</h3>
+        <p>Capaz de armazenar foto e videos celebrativos e comemorativos feita com HTML, CSS e JavaScript.</p>
+    </div>
+    
+    <div class="projeto">
+        <img class="foto" src="img/5.jpg">
+        <h3>Arrendamento de Casa</h3>
+        <p>Sistema de arrendamento de casas, arrenda uma casa sem sair de sua casa, aqui podes procurar ou arrendar uma casa feita com HTML, CSS e JavaScript.</p>
+    </div>
+
+</section>
+
+   <section class="skills">
+    <h2>Ferramentas</h2>
+    <ul>
+        <li>GitHub</li>
+        <li>Cloudflare</li>
+        <li>Bootstrap</li>
+        <li>Visual Studio Code</li>
+        <li>Word</li>
+        <li>Excel</li>
+    </ul>
+</section> 
+    
+<section class="contato">
+    <h2>Contacto</h2>
+    <p>Email: virgilíogeovane@23gmail.com</p>
+    <p>Email: geovanevirgilio@40gmail.com</p>
+    <p>GitHub: https://geovanevirgilio40-gif.</p>       
+    <p>№ telefone: 940232504</p>
+    <p>WhatsApp: 940232504</p>
+    <p>LinkedIn: Virgílio Geovane</p>
+    <p>Luanda - Angola</p>
+</section>
+
+<footer>
+    <p>© 2026 - Virgílio Da Silva</p>
+</footer>
+
+</body>
+</html>
